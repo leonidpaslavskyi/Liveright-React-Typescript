@@ -1,55 +1,10 @@
 # Liveright project
 
-### _Relevant links_
-
-- [Old version](http://portal.theliveright.com/)  
-   username: `black@colorelephant.com`  
-   password: `6038dc237b5ba`
-- [Sitemap](https://whimsical.com/liveright-sitemap-v1-KqFoCVEcYzE9Qo5iyHmEHv)
-- [Wirefrmes - identidy](https://whimsical.com/closed-wireframes-identity-ar-Mt3bFPVyLCdNX4QsHE21r4)
-- [Wireframes - client - mobile](https://whimsical.com/liveright-internal-mobile-wireframes-B7MqrKWWbERFtQbNqDVmm4)
-- [Wireframes - trainer - mobile](https://whimsical.com/liveright-internal-mobile-trainer-flow-4j7VgHPFHiaAC6ggcvdwLq)
-- [Wireframes - client+trainer - desktop](https://whimsical.com/liveright-internal-desktop-wireframes-42jSTuRpBv9uCpVBuhwrq6)
-- [Wireframes - Batch II](https://whimsical.com/liveright-wireframes-batch-ii-XNtfTXwkH97BHXucUPHXZX)
-- [Wireframes - Batch III](https://whimsical.com/wireframes-liveright-batch-iii-UBySsZvFxE4cqXo9VcPP3e)
-- [Designs](https://www.figma.com/file/oDWlnY8XIqzNi5OsCwYtnO/Liveright---Internal?node-id=0%3A1)
-- [Scope document](https://docs.google.com/spreadsheets/d/1JhTL-g5SmKEvYVV4NrOSJcEsXZPU5IOcGU4hX-oZBnU/edit?usp=sharing)
-- [Clickup documentation](https://app.clickup.com/2164322/v/dc/221k2-2535/221k2-5160)
-- [Clickup board](https://app.clickup.com/2164322/v/b/221k2-2507)
-- [API documentation](https://documenter.getpostman.com/view/8741108/Tzeak6s7)
-- [ALLRight API documentation](https://documenter.getpostman.com/view/8741108/Tzm5GGb9#3e3d073b-7da1-41cc-b805-d1f97bb15425)
-- [Chat API documentation](https://documenter.getpostman.com/view/6844927/TzzBovPK#ce59eb5f-ca7f-41b3-a7f1-077246af2d04)
-
 ### _Getting started_
 
 - Run `yarn setup`. this will install dependencies and init .env  
   If any additional setup will be needed in future, please add it in the setup command.
 - Run `yarn start` to start the server. Will run om port 8022. Can be customized in .env
-
-### _3rd party libraries_
-
-####**_MailGun_**  
-[https://www.mailgun.com/](https://www.mailgun.com/)  
-**_username_**: `khaki@colorelephant.com`  
-**_password_**: `S8!4^?ce.nJ%nVx!`
-
-#### **_IPStack_**
-
-[https://ipstack.com/](https://ipstack.com/)  
-**_username:_** `liverightdevelopment@gmail.com`  
-**_password:_** `liveright123`
-
-#### **_Pusher_**
-
-[https://dashboard.pusher.com/](https://dashboard.pusher.com/)
-**_username:_** `allright@colorelephant.com`  
-**_password:_** `` %V[u3tx`Me8f[KcB ``
-
-#### **_HotJar_**
-
-[https://hotjar.com](https://hotjar.com)
-**_username:_** `allright@colorelephant.com`  
-**_password:_** `t3SdVRJ@T6BjM4c`
 
 ### _Project structure_
 
